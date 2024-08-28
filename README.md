@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-Game
+Welcome to the Tic-Tac-Toe Game project! This is a classic game of Tic-Tac-Toe implemented using HTML, CSS, JavaScript, and Bootstrap. The game allows two players to compete against each other on a 3x3 grid, with the goal of getting three of their marks in a row, either horizontally, vertically, or diagonally.
